@@ -1,0 +1,2 @@
+--A simple  react application that;
+-allow users to add items to a list
